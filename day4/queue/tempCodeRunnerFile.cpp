@@ -1,0 +1,2 @@
+
+      cout<<obj.i
